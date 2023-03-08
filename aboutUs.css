@@ -1,0 +1,75 @@
+.navbar {
+    background-color: rgb(255, 24, 97);
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: large;
+    padding: .5rem;
+    margin: auto;
+}
+
+.general-container {
+    background-color: white;
+    max-width: 90rem;
+}
+
+.sobre-nosotros{
+    position: relative;
+    max-width: 80rem; 
+    margin:auto;
+}
+
+.sobreN{
+    padding: 1rem;
+    background-color: #C0F990;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2.5rem;
+}
+
+.container {
+    position: relative;
+    max-width: 80rem; 
+    margin-left:11rem;
+}
+.quienes-somos{
+    margin-top: 8.5rem;
+    margin-left: 4rem;
+    font-family: 'Raleway', sans-serif;
+    font-size: 3rem;
+    color: deeppink;
+}
+
+.info{
+    margin-top: 3rem;
+    margin-right: 2.5rem;
+    padding: 1.54rem;
+    font-size: 1.3rem;
+    font-family: 'Raleway', sans-serif;
+    text-align: justify;  
+}
+
+.subtitle {
+    margin-top: 5.5rem;
+    font-family: 'Raleway', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.info2{
+    margin-top: 2.5rem;
+    margin-right: 2rem;
+    margin-bottom: 12rem;
+    font-size: 1.3rem;
+    font-family: 'Raleway', sans-serif;
+    text-align: justify;  
+}
+
+.container2 {
+    max-width: 90rem; 
+    margin-left:1rem;
+}
+
+.hector, .jesus, .estef, .carlos, .gerardo {
+    font-size: 1rem;
+    font-family: 'Raleway', sans-serif;
+    text-align: justify;  
+}
